@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import{i as p}from"../chunks/BdDqlToa.js";import{p as r,a as t}from"../chunks/CVzus6L2.js";import{o as a}from"../chunks/UvxLqGYn.js";import"../chunks/BETVIdVg.js";import{g as i}from"../chunks/jsjAm4ji.js";function u(m,o){r(o,!1),a(()=>{i("{base}/login")}),p(),t()}export{u as component};
